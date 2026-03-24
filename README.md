@@ -4,7 +4,7 @@ AIB是all in bag的缩写，我希望它成为Comfyui插件中的百宝箱。
 &nbsp;
 
 
-2026年3月24日新增第一个节点，这个节点是自动生成双眼皮位置的遮罩，还不够完善欢迎指正和完善。使用这个节点需要numpy、cv2、mediapipe、torch。在numpy1.26.4、opencv_python-4.11.0.86、mediapipe-0.10.21上测试可顺畅运行。
+2026年3月24日新增第一个节点，这个节点是自动生成双眼皮位置的遮罩，还不够完善欢迎指正和完善。使用这个节点需要numpy、cv2、mediapipe、torch。在numpy1.26.4、opencv_python-4.11.0.86、mediapipe-0.10.21、torch-2.10.0上测试可顺畅运行。
 
 &nbsp;
 
